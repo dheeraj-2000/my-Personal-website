@@ -67,7 +67,7 @@ label{
 }
 .banner-image-w3layouts img {
     position: absolute;
-    bottom: -30;
+    bottom: 0;
     right: 6%;
     width: 425px;
 }
@@ -1690,10 +1690,11 @@ a.callbacks_nav.callbacks1_nav.prev {
 }
 @media(max-width:1440px){
 	.banner {
-		min-height: 600px;
+		min-height: 900px;
 	}
 	.banner-image-w3layouts img {
 		width: 315px;
+
 	}
 	.agile_banner_info h2 {
 		font-size: 2.2em;
